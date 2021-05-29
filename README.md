@@ -7,3 +7,18 @@ JDLiveKit
 ![platform](https://img.shields.io/badge/platform-ios-ff69b4.svg)&nbsp;
 
 **JDLiveKit is a opensource RTMP streaming SDK for iOS inspired by [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit)**  
+
+## Requirements
+    - iOS 13.0+
+    - Xcode 12.5
+    
+## Installation
+```TODO```
+
+
+## Usage example 
+```TODO```
+
+
+## License
+ **JDLiveKit is released under the MIT license. See LICENSE for details.**
